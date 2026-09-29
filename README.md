@@ -37,6 +37,14 @@
 | [**Portfolio**](https://github.com/imgautamgupta/Portfolio) | Personal portfolio showcasing my projects, skills, and experience | `JavaScript` |
 
 ---
+### 🐍 Contribution Snake
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imgautamgupta/imgautamgupta/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imgautamgupta/imgautamgupta/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/imgautamgupta/imgautamgupta/output/github-snake.svg" />
+</picture>
+</div>
 
 ### 📊 GitHub Stats
 <div align="center">
