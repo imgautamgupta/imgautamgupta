@@ -36,7 +36,20 @@
 | [**HYORK**](https://github.com/imgautamgupta/HYORK) | Digital experience platform focused on ongoing optimization, maintenance, and long-term technical support | `TypeScript` |
 | [**Portfolio**](https://github.com/imgautamgupta/Portfolio) | Personal portfolio showcasing my projects, skills, and experience | `JavaScript` |
 
----
+--- 
+
+### 🚀 Featured Repos
+<div align="center">
+  <a href="https://github.com/imgautamgupta/ABHI-MOH"><img src="https://raw.githubusercontent.com/imgautamgupta/imgautamgupta/main/card-abhi-moh.svg" width="49%" /></a>
+  <a href="https://github.com/imgautamgupta/NeuroNest---Notes-Bookmarks-Manager."><img src="https://raw.githubusercontent.com/imgautamgupta/imgautamgupta/main/card-neuronest.svg" width="49%" /></a>
+</div>
+<div align="center">
+  <a href="https://github.com/imgautamgupta/Loan-Application-Fraud-Detection-via-Document-Verification"><img src="https://raw.githubusercontent.com/imgautamgupta/imgautamgupta/main/card-fraud-detection.svg" width="49%" /></a>
+  <a href="https://github.com/imgautamgupta/Portfolio"><img src="https://raw.githubusercontent.com/imgautamgupta/imgautamgupta/main/card-portfolio.svg" width="49%" /></a>
+</div>
+
+--- 
+
 ### 🐍 Contribution Snake
 <div align="center">
 <picture>
@@ -46,16 +59,13 @@
 </picture>
 </div>
 
+--- 
+
+### 📊 GitHub at a Glance
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=imgautamgupta&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/imgautamgupta?style=for-the-badge&logo=github&color=39d353&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Main%20Stack-Next.js%20%7C%20TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/last-commit/imgautamgupta/ABHI-MOH?style=for-the-badge&color=a371f7&labelColor=0d1117" />
 </div>
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imgautamgupta&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgautamgupta&layout=compact&theme=tokyonight" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imgautamgupta&theme=tokyonight" />
-</div>
+--- 
