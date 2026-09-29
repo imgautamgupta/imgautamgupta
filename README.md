@@ -21,6 +21,11 @@
 
 ---
 
+### 🌐 Connect With Me
+<a href="mailto:gautamguptaworkin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
 ### 🚀 Featured Projects
 
 | Project | Description | Tech |
@@ -42,11 +47,3 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imgautamgupta&theme=tokyonight" />
 </div>
-
----
-
-<div align="center">
-  ⭐ Thanks for visiting! Feel free to connect or collaborate. ⭐
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
