@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Gautam%20Gupta&fontSize=45&fontAlignY=35&animation=fadeIn" width="100%"/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;B.Tech+IT+Student;Building+Real-World+Applications" alt="Typing animation" />
-</div>
+<img src="https://raw.githubusercontent.com/imgautamgupta/imgautamgupta/main/banner.svg" width="100%" alt="Gautam Gupta banner" />
 
 ---
 
@@ -25,6 +21,8 @@
 <a href="mailto:gautamguptaworkin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_I](https://www.linkedin.com/in/gautam-gupta-620559285/)D"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="[https://YOUR_PORTFOLIO_LINK](https://gautamportfolio-rho.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+---
 
 ### 🚀 Featured Projects
 
@@ -69,3 +67,5 @@
 </div>
 
 --- 
+
+<img src="https://raw.githubusercontent.com/imgautamgupta/imgautamgupta/main/footer.svg" width="100%" alt="Thanks for visiting" />
