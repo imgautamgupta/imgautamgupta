@@ -46,6 +46,10 @@
 </picture>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=imgautamgupta&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
+
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imgautamgupta&show_icons=true&theme=tokyonight" height="170" />
